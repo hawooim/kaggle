@@ -1,5 +1,5 @@
 # kaggle
-Kaggle practices and Codes
+Kaggle practices and codes
 
-#### List
+### List
 [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
