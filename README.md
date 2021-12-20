@@ -1,4 +1,4 @@
-# kaggle
+# Kaggle
 Kaggle practices & codes
 
 ### List
