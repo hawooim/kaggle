@@ -13,4 +13,4 @@ Kaggle practices & codes
 
 3. Applications of Deep Learning (WUSTL, Fall 2021) - Estimate the square footage of a virtual city: [Kaggle](https://www.kaggle.com/c/applications-of-deep-learning-wustlfall-2021), [code](https://www.kaggle.com/hrengineer/a-code-of-we-tried-though-team)      
 -- 2021-12, My second Kaggle in-class competition 1st place (INFO558, Applications of Deep Neural Networks)
-![YouTube](https://github.com/hawooim/kaggle/blob/main/info558/presentation.jpg](https://www.youtube.com/watch?v=Li35UTcUn9c)
+[![YouTube](https://github.com/hawooim/kaggle/blob/main/info558/presentation.jpg)](https://www.youtube.com/watch?v=Li35UTcUn9c "Video Title")
